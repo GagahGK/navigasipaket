@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "833041909281",
+    "project_id": "tugas-akhir-f7cf8",
+    "storage_bucket": "tugas-akhir-f7cf8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833041909281:android:055b056142f4ab6141c560",
+        "android_client_info": {
+          "package_name": "com.Azdan.riderapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "833041909281-rui11mskidnpplnvljaa2kodr5nnpei9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJRkZt-Cf1UOGZZzBZlpUuyiFUTykiN_A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "833041909281-rui11mskidnpplnvljaa2kodr5nnpei9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
